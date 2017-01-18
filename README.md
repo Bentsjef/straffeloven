@@ -1,11 +1,12 @@
-# Straffeloven 1902 - se [lovdata](https://lovdata.no/dokument/NLO/lov/1902-05-22-10)
+# Straffeloven 2005 - se [lovdata](https://lovdata.no/dokument/NL/lov/2005-05-20-28)
 
-* 1. oktober 2015: Ble erstattet av Straffeloven 2005
+* 1. oktober 2015: Straffeloven 2005 ble satt i kraft
+* Erstatter straffeloven 1902
 * Loven kan anvendes f.eks ved:
-  * Innbrudd i datasystemer (§ 145)
-    * Dersom det er innført relevante sikringstiltak
-    * 1972 - § 405a kan også brukes, men her med lavere straff
-  * Egne ansatte røper bedriftshemmeligheter (§ 294)
-    * 1972 - Innført tillegg om konsulenter
-  * Logiske bomber eller datavirus som medfører skade (§ 291 og §292)
-  * Forfalskning, også ved hjelp av datamaskiner (§ 182, §270-271)
+  * Innbrudd i datasystem (§ 204)
+  * Skadeverk og grovt skadeverk (§ 351-352)
+    * Egne ansatte røper bedriftshemmeligheter
+  * Fare for driftshindring (§ 206)
+     * Logiske bomber eller datavirus som medfører skade
+  * Bedrageri og grovt bedrageri (§ 371-372)
+     * Forfalskning, også ved hjelp av datamaskiner
